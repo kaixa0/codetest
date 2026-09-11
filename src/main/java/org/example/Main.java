@@ -20,6 +20,7 @@ public class Main {
         System.out.printf("本地增加的第二行");
 
         System.out.printf("在线增加的第二行");
+        System.out.printf("本地增加的第三行");
         System.out.printf("在线增加的第三行");
     }
 }
